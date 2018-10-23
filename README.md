@@ -1,4 +1,4 @@
 # BlackJack-DemoApp
-This is a demo of BlackJack game. You play with Croupier.
+This is a demo of BlackJack game.
 You play with croupier which is Your Computer.
 Technologies: core Java
